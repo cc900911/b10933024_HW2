@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">b10933024_hw2</string>
+    <string name="spot_description1">景點描述一</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
